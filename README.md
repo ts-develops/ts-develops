@@ -9,14 +9,6 @@
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/color/2x/linkedin.png =250x250)](https://www.linkedin.com/in/tawfiq-abdul-rahman-379746198/)
-&nbsp;&nbsp;
-[![website](./img/globe-light.svg)]
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)]
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]
-
 [<img align="left" alt="Linkedin" width="26px" src="https://img.icons8.com/color/2x/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/tawfiq-abdul-rahman-379746198/)
 [<img align="left" alt="Projects" width="26px" src="https://img.icons8.com/color/344/globe--v1.png" style="padding-right:10px;" />]()
 [<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/color/344/twitter--v1.png" style="padding-right:10px;" />]()
