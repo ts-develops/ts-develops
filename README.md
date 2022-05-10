@@ -9,16 +9,13 @@
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/color/344/linkedin.png)](https://img.icons8.com/color/2x/linkedin.png)
+[![website](https://img.icons8.com/color/2x/linkedin.png =250x250)](https://www.linkedin.com/in/tawfiq-abdul-rahman-379746198/)
 &nbsp;&nbsp;
 [![website](./img/globe-light.svg)]
-[![website](./img/globe-dark.svg)]
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)]
-[![website](./img/twitter-dark.svg)]
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)]
-[![website](./img/instagram-dark.svg)]
 
 ### Languages and Tools:
 
