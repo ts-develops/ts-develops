@@ -2,14 +2,14 @@
 
 ## I'm a CS Graduate and Developer!!
 
-- 🌱 I’m on the road to grow my mind and always be learning
+- 🌱 I’m on the road to improve my knowledge and always be learning
 - 💡 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Understand and Learn more about web3
 - ⚡ Fun fact: I love to play sports
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/color/344/linkedin.png)](https://linkedin.com/in/tawfiq-abdul-rahman-379746198/#gh-light-mode-only)
+[![website](https://img.icons8.com/color/344/linkedin.png)](https://img.icons8.com/color/2x/linkedin.png)
 &nbsp;&nbsp;
 [![website](./img/globe-light.svg)]
 [![website](./img/globe-dark.svg)]
