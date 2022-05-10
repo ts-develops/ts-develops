@@ -17,6 +17,11 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)]
 
+[<img align="left" alt="Linkedin" width="26px" src="https://img.icons8.com/color/2x/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/tawfiq-abdul-rahman-379746198/)
+[<img align="left" alt="Projects" width="26px" src="https://img.icons8.com/color/344/globe--v1.png" style="padding-right:10px;" />]()
+[<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/color/344/twitter--v1.png" style="padding-right:10px;" />]()
+[<img align="left" alt="Instagram" width="26px" src="https://img.icons8.com/color/344/instagram-new--v1.png" style="padding-right:10px;" />]()
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
