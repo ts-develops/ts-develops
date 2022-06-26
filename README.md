@@ -1,33 +1,37 @@
-<div id="header" align="">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
 </div>
 
-## Hello my name is Tawfiq 👋
+Hi 👋 My name is Tawfiq Abdul Rahman
+====================================
 
-## I'm a CS Graduate and Developer!!
+Front End Developer
+-------------------
 
-- 🌱 I’m on the road to improve my knowledge and always be learning
-- 💡 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Understand and Learn more about web3
-- ⚡ Fun fact: I love to play sports
+I'm a Computer Science graduate, that has been coding my whole life as it's a great hobby of mine. Understanding the Web, Internet and latest technology has always been a passion of mine. Determining the structure and design of web pages is something that brings me joy doing.
 
-### Connect with me:
+* 🌍  I'm based in London
+* 🖥️  See my portfolio at [MyPortfolio](http://ts-develops.github.io/)
+* ✉️  You can contact me at [tawfiqrahman00@gmail.com](mailto:tawfiqrahman00@gmail.com)
+* 🧠  I'm learning React
+* ⚡  I'm very interested in Blockchain and my goal is to learn Solidity to understand Web 3 further
 
-[<img align="left" alt="Linkedin" width="26px" src="https://img.icons8.com/color/2x/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/tawfiq-abdul-rahman-379746198/)
-[<img align="left" alt="Projects" width="26px" src="https://img.icons8.com/color/344/globe--v1.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/color/344/twitter--v1.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Instagram" width="26px" src="https://img.icons8.com/color/344/instagram-new--v1.png" style="padding-right:10px;" />]()
+### Skills
 
-<br />
-<br />
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+</p>
 
-### Languages and Tools:
+### Socials
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]()
-<br />
-<br />
---
+<p align="left"> <a href="https://www.github.com/ts-develops" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tsdevelops" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tawfiq-abdul-rahman-379746198/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TsDevelops" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ts-develops"><img src="https://github-readme-stats.vercel.app/api?username=ts-develops&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="ts-develops's GitHub stats" /></a>
+
+<a href="https://github.com/ts-develops" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-develops&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
