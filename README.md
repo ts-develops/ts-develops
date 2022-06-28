@@ -14,7 +14,7 @@ I'm a Computer Science graduate, that has been coding my whole life as it's a gr
 * 🖥️  See my portfolio at [MyPortfolio](http://ts-develops.github.io/)
 * ✉️  You can contact me at [tawfiqrahman00@gmail.com](mailto:tawfiqrahman00@gmail.com)
 * 🧠  I'm learning React
-* ⚡  I'm very interested in Blockchain and my goal is to learn Solidity to understand Web 3 further
+* ⚡  I'm into the Blockchain community and my goal is to learn Solidity to understand Web 3 further
 
 ### Skills
 
