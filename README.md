@@ -4,6 +4,9 @@
   
 
 ## **<div align="center">I'm Tawfiq, a front-end developer 👨🏾‍💻</div>**  
+
+
+
   
 
 - 🌎 Based in London  
@@ -20,8 +23,9 @@
 
 ## My Skill Set  
 
-### Frontend  
+
 <div align="center">  
+### Frontend  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -30,8 +34,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
-
-</td></tr></table>  
 
 <br/>  
 
