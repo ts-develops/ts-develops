@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tawfiq</h1>
-<h3 align="center">A passionate frontend developer from London</h3>
+<h3 align="center">A passionate cloud engineer from London</h3>
 
 - 🔭 I’m currently working on **many projects to perfect my skills**
 
